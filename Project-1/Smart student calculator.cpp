@@ -95,7 +95,7 @@ int main() {
     int choice;
 
     do {
-        cout << "\n===== SMART STUDENT CALCULATOR =====" << endl;
+        cout << "\n SMART STUDENT CALCULATOR " << endl;
         cout << "1. Attendance Percentage" << endl;
         cout << "2. Grade Calculator" << endl;
         cout << "3. Average of 3 Subjects" << endl;
