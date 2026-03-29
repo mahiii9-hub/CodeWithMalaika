@@ -1,0 +1,5 @@
+Name Salary Department
+Mahi 1200 Sales
+Aiman 18000 HR
+Anee 13000 IT
+Malaika 11500 Marketing
